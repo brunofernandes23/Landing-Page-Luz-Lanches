@@ -6,6 +6,9 @@ Usei os métodos citados no curso e implementei uma empresa ficticia de minha au
 
 Quando realizei esse projeto ainda estava aprendendo o básico, mas achei incrivél e curti muito mesmo realiza-lo!
 
+Abra o site por aqui:
+https://hardcore-hermann-fe55c5.netlify.app
+
 Espero que curtam!
 
 Code is Life! xD
