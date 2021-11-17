@@ -1,14 +1,14 @@
-Olá, aqui é o Bruno Fernandes! 
+Hi, this is Bruno Fernandes! 
 
-Nesse projeto recriei um projeto do Curso de Front End da Danki Code.
+In this project I recreated a project from Danki Code's Front End Course.
 
-Usei os métodos citados no curso e implementei uma empresa ficticia de minha autoria.
+I used the methods mentioned in the course and implemented a fictitious company of my own.
 
-Quando realizei esse projeto ainda estava aprendendo o básico, mas achei incrivél e curti muito mesmo realiza-lo!
+When I did this project I was still learning the basics, but I thought it was amazing and I really enjoyed doing it!
 
-Abra o site por aqui:
+Open the site here:
 https://hardcore-hermann-fe55c5.netlify.app
 
-Espero que curtam!
+Hope you like it!
 
 Code is Life! xD
