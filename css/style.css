@@ -131,7 +131,8 @@
 
 .container-list ul li{
     margin-top: 18px;
-    color: black; text-shadow: black 0.1em 0.1em 0.2em;
+    color: black;
+    font-weight: 500;
 }
 
 .container-lore{
